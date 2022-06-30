@@ -89,7 +89,7 @@ export default function SignIn() {
             />
             <FormControlLabel
               control={<Checkbox value="remember" color="primary" />}
-              label="Mostrar"
+              label="remember"
             />
             <Button
               type="submit"
