@@ -27,9 +27,11 @@
 
 obs: tive dificuldade em acessar os dados da api que era pra ser consumida na avaliação, logo, procurei algo para poder solucionar o meu problema. encontrei o tersonflow com object detection e implementei para a solução do problema requisitado.
 
+baixar a extensao no vs code:
 obs: como meu codigo nao vai para produção, entao resolvi colocar as explicações das funcionalidades em comentarios
 
-baixar a extensao:
 ![todo](https://user-images.githubusercontent.com/38596921/176706298-6c021c81-52eb-4054-bf6c-f285dfba8514.jpg)
+
+### Apresentação da solução
 
 ![React App - Brave 2022-06-30 10-58-33](https://user-images.githubusercontent.com/38596921/176702431-1f59c907-941d-43ef-8489-a2b1753fb9ec.gif)
