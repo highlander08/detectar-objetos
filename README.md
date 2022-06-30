@@ -1,72 +1,35 @@
-# Desde ja agradeço a oportunidade de esta fazendo uma avaliação
+### Utilizei as tecnologias Reactjs + Material UI + Styled-components + object Detection + tersonflow + axios
+
+## Por que usar ?
+
+ Reactjs https://pt-br.reactjs.org/ 
+ -- Uma biblioteca JavaScript para criar interfaces de usuário
+ -- Além de oferecer sites com alto desempenho, o React é flexível e permite que todos os códigos sejam separados e utilizados como componentes reutilizáveis
+ 
+ Material UI https://mui.com/pt/
+  -- O MUI oferece um conjunto abrangente de ferramentas de interface do usuário para ajudá-lo a enviar novos recursos mais rapidamente.
+  
+ Styled-Components https://styled-components.com/ 
+  -- styled-components nos permite passar uma função como o valor do estilo, nós podemos mudar os estilos baseado nas props passadas, ao invés de adicionar classes ao         nosso HTML, como é feito tradicionalmente com CSS.
+  
+ Object Detection https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd
+  -- Modelo de detecção de objetos que visa localizar e identificar vários objetos em uma única imagem.
+  
+ Tersonflow https://www.tensorflow.org/
+   --  Ele tem um ecossistema abrangente e flexível de ferramentas, bibliotecas e recursos da comunidade que permite aos pesquisadores levar adiante ML de última geração        e aos desenvolvedores criar e implantar aplicativos com tecnologia de ML.
+   -- O TensorFlow.js é uma biblioteca de JavaScript para treinar e implantar modelos no navegador e no Node.js.
+  
+  
+  Axios https://axios-http.com/ptbr/
+   -- Axios é um cliente HTTP simples baseado em promessas para o navegador e para o node.js. Axios fornece uma biblioteca simples de usar em um pacote pequeno com uma         grande interface.
+ 
 
 
+obs: tive dificuldade em acessar os dados da api que era pra ser consumida na avaliação, logo, procurei algo para poder solucionar o meu problema. encontrei o tersonflow com object detection e implementei para a solução do problema requisitado.
 
-Este projeto foi bootstrapped com Create React App. [Create React App](https://github.com/facebook/create-react-app).
+obs: como meu codigo nao vai para produção, entao resolvi colocar as explicações das funcionalidades em comentarios
 
-## Available Scripts
+baixar a extensao:
+![todo](https://user-images.githubusercontent.com/38596921/176706298-6c021c81-52eb-4054-bf6c-f285dfba8514.jpg)
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![React App - Brave 2022-06-30 10-58-33](https://user-images.githubusercontent.com/38596921/176702431-1f59c907-941d-43ef-8489-a2b1753fb9ec.gif)
